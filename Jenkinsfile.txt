@@ -1,3 +1,4 @@
+//Jenkins Pipeline skeleton only.
 pipeline {
     agent any // Specifies that the Pipeline can run on any available agent
 
